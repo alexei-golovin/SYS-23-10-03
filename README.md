@@ -42,6 +42,12 @@
 
 ### Ответ на задание 1
 
+![](https://github.com/alexei-golovin/SYS-23-10-03/blob/main/files/101.jpg)
+![](https://github.com/alexei-golovin/SYS-23-10-03/blob/main/files/102.jpg)
+![](https://github.com/alexei-golovin/SYS-23-10-03/blob/main/files/103.jpg)
+
+https://github.com/alexei-golovin/SYS-23-10-03/blob/main/files/command_1.txt
+
 ### Задание 2
 - Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
 - Резервная копия должна быть полностью зеркальной
