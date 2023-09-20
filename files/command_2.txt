@@ -1,0 +1,1 @@
+00 19 * * * rsync -a --progress . /tmp/backup | perl -ne '$date=localtime;print "$date $_"' >> /var/log/rsync_desktop.log - ежедневное резервное копирование домашней директории в 19:00 по МСК с записью в лог файл rsync_desktop.log
