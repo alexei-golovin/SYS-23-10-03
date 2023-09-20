@@ -57,6 +57,11 @@ https://github.com/alexei-golovin/SYS-23-10-03/blob/main/files/command_1.txt
 
 ### Ответ на задание 2
 
+![](https://github.com/alexei-golovin/SYS-23-10-03/blob/main/files/201.jpg)
+![](https://github.com/alexei-golovin/SYS-23-10-03/blob/main/files/202.jpg)
+
+https://github.com/alexei-golovin/SYS-23-10-03/blob/main/files/command_2.txt
+
 ---
 
 ## Задания со звёздочкой*
